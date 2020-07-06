@@ -40,7 +40,7 @@ A partir des informations ci-dessus, la précédente ésuipe de développeurs, d
 
 ![MCD](assets/MCDblog.jpg "MCD de la base blog")
 
-Pour commencer, créez une base de données MySql et importer le script suivant : [blog.sql](blog.sql)
+Pour commencer, créez une base de données MySql et importer le script suivant : [blog.sql](assets/blog.sql)
 
 Vous devez obtenir le schéma physique suivant :
 
